@@ -1,0 +1,7 @@
+interface:
+  display_name: "Duo"
+  short_description: "Start or stop coordinated two-agent work"
+  default_prompt: "Use $duo to start or stop a coordinated Claude/Codex workspace."
+
+policy:
+  allow_implicit_invocation: false
